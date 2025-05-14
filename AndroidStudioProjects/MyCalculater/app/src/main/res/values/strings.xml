@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCalculater</string>
+    <string name="submit">SUBMIT</string>
+    <string name="enter_the_value_below">Enter the value below</string>
+</resources>
